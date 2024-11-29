@@ -1,0 +1,2 @@
+# Xloca
+ Localize strings Everywhere.
